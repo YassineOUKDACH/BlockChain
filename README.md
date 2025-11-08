@@ -1,8 +1,7 @@
 #  Mini Blockchain Simulation in Python
 
   
-This project  explains the core ideas of blockchain such as **transactions, blocks, proof of work (mining), rewards, balances, and chain validation**, all in one simple, easy-to-understand script using only Python’s built-in libraries (`hashlib`, `time`).
-
+This project explains the core concepts of blockchain, including transactions, blocks, proof of work (mining), rewards, balances, and chain validation, all implemented in a simple, easy-to-understand Python script using only built-in libraries (hashlib and time).
 ---
 
 ## ⚙️ Overview
